@@ -1,3 +1,3 @@
-# Simple Starter
+# gen-39
 
-Simple JS build starter for simple, client-only demos.
+Layered rounded square compounds with drop shadows
